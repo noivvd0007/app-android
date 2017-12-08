@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124596634409",
+    "firebase_url": "https://ndapptracnghiem.firebaseio.com",
+    "project_id": "ndapptracnghiem",
+    "storage_bucket": "ndapptracnghiem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124596634409:android:0e042969dbefa8d2",
+        "android_client_info": {
+          "package_name": "com.vuvannoi.ndapptracnghiem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124596634409-5sr2qvdlknocla6knd363jgbk2se18fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vuvannoi.ndapptracnghiem",
+            "certificate_hash": "7baf5e9268598a48a7a69bd3ba21fbe67378e19e"
+          }
+        },
+        {
+          "client_id": "124596634409-m5voeieadmcij5flpvq9v9kqi8jhp2jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Pihivyk-fT3B9dnryjziirFMlP7BBTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124596634409-m5voeieadmcij5flpvq9v9kqi8jhp2jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

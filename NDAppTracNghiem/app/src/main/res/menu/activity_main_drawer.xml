@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_myacc"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="Tài khoản của tôi" />
+        <item
+            android:id="@+id/drawe_chagepass"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Thay đổi mật khẩu" />
+        <item
+            android:id="@+id/drawe_logout"
+            android:icon="@drawable/ic_backspace_black_24dp"
+            android:title="Đăng xuất" />
+
+
+    </group>
+
+    <item android:title="Cộng đồng">
+        <menu>
+            <item
+                android:id="@+id/drawer_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Chia sẽ ứng dụng" />
+            <item
+                android:id="@+id/drawer_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Gửi phản hồi" />
+        </menu>
+    </item>
+
+</menu>
